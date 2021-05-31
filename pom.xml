@@ -12,6 +12,12 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Mybatis_study1</module>
+        <module>Mybatis_study2</module>
+        <module>Mybatis_study3</module>
+        <module>Mybatis_anno</module>
+        <module>Mybatis_Lombok</module>
+        <module>Mybatis_7</module>
+        <module>Mybatis_08</module>
     </modules>
 
     <properties>
